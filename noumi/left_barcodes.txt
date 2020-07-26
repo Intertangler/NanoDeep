@@ -1,0 +1,1 @@
+['ACGTCA','AGAGTC','TTAGGG']
